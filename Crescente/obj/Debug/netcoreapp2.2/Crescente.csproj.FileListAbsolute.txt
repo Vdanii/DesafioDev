@@ -1,0 +1,4 @@
+C:\Users\39051989830\Documents\DesafioDev\Crescente\obj\Debug\netcoreapp2.2\Crescente.csprojAssemblyReference.cache
+C:\Users\39051989830\Documents\DesafioDev\Crescente\obj\Debug\netcoreapp2.2\Crescente.csproj.CoreCompileInputs.cache
+C:\Users\39051989830\Documents\DesafioDev\Crescente\obj\Debug\netcoreapp2.2\Crescente.AssemblyInfoInputs.cache
+C:\Users\39051989830\Documents\DesafioDev\Crescente\obj\Debug\netcoreapp2.2\Crescente.AssemblyInfo.cs

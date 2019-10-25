@@ -1,0 +1,11 @@
+C:\Users\39051989830\Documents\DesafioDev\TERRA\obj\Debug\netcoreapp2.2\TERRA.csprojAssemblyReference.cache
+C:\Users\39051989830\Documents\DesafioDev\TERRA\obj\Debug\netcoreapp2.2\TERRA.csproj.CoreCompileInputs.cache
+C:\Users\39051989830\Documents\DesafioDev\TERRA\obj\Debug\netcoreapp2.2\TERRA.AssemblyInfoInputs.cache
+C:\Users\39051989830\Documents\DesafioDev\TERRA\obj\Debug\netcoreapp2.2\TERRA.AssemblyInfo.cs
+C:\Users\39051989830\Documents\DesafioDev\TERRA\bin\Debug\netcoreapp2.2\TERRA.deps.json
+C:\Users\39051989830\Documents\DesafioDev\TERRA\bin\Debug\netcoreapp2.2\TERRA.runtimeconfig.json
+C:\Users\39051989830\Documents\DesafioDev\TERRA\bin\Debug\netcoreapp2.2\TERRA.runtimeconfig.dev.json
+C:\Users\39051989830\Documents\DesafioDev\TERRA\bin\Debug\netcoreapp2.2\TERRA.dll
+C:\Users\39051989830\Documents\DesafioDev\TERRA\bin\Debug\netcoreapp2.2\TERRA.pdb
+C:\Users\39051989830\Documents\DesafioDev\TERRA\obj\Debug\netcoreapp2.2\TERRA.dll
+C:\Users\39051989830\Documents\DesafioDev\TERRA\obj\Debug\netcoreapp2.2\TERRA.pdb

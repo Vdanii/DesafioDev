@@ -1,0 +1,11 @@
+C:\Users\39051989830\Documents\DesafioDev\Asteristico\obj\Debug\netcoreapp2.2\Asteristico.csprojAssemblyReference.cache
+C:\Users\39051989830\Documents\DesafioDev\Asteristico\obj\Debug\netcoreapp2.2\Asteristico.csproj.CoreCompileInputs.cache
+C:\Users\39051989830\Documents\DesafioDev\Asteristico\obj\Debug\netcoreapp2.2\Asteristico.AssemblyInfoInputs.cache
+C:\Users\39051989830\Documents\DesafioDev\Asteristico\obj\Debug\netcoreapp2.2\Asteristico.AssemblyInfo.cs
+C:\Users\39051989830\Documents\DesafioDev\Asteristico\bin\Debug\netcoreapp2.2\Asteristico.deps.json
+C:\Users\39051989830\Documents\DesafioDev\Asteristico\bin\Debug\netcoreapp2.2\Asteristico.runtimeconfig.json
+C:\Users\39051989830\Documents\DesafioDev\Asteristico\bin\Debug\netcoreapp2.2\Asteristico.runtimeconfig.dev.json
+C:\Users\39051989830\Documents\DesafioDev\Asteristico\bin\Debug\netcoreapp2.2\Asteristico.dll
+C:\Users\39051989830\Documents\DesafioDev\Asteristico\bin\Debug\netcoreapp2.2\Asteristico.pdb
+C:\Users\39051989830\Documents\DesafioDev\Asteristico\obj\Debug\netcoreapp2.2\Asteristico.dll
+C:\Users\39051989830\Documents\DesafioDev\Asteristico\obj\Debug\netcoreapp2.2\Asteristico.pdb
