@@ -1,6 +1,9 @@
 ﻿using System;
-
-namespace Crescente
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+namespace ConsoleApp1
 {
     class Program
     {
@@ -8,23 +11,21 @@ namespace Crescente
         {
             int i = 0;
             List<int> _lista = new List<int>();
-
-            while (i <= 2){
-                Console.WriteLine("Digite seu " + (i + 1) + "º numero");
+            while (i <= 2)
+            {
+                Console.WriteLine("Digite seu " + (i + 1) + "º número");
                 _lista.Add(int.Parse(Console.ReadLine()));
-
                 i++;
             }
-                _lista.Sort();
-
-                Console.WriteLine();
-                Console.WriteLine("Os numeros digitados são: ");
-
-                foreach(int termo in _lista)
-                {
-                    Console.WriteLine(termo);
-                }
-                Console.ReadKey();
+            // Aqui voce ordena e inverte a ordem
+            _lista.Sort();
+            Console.WriteLine();
+            Console.WriteLine("Os numeros digitados são:");
+            foreach (int termo in _lista)
+            {
+                Console.WriteLine(termo);
+            }
+            Console.ReadKey();
         }
     }
 }

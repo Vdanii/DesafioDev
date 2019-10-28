@@ -692,11 +692,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\39051989830\\Documents\\DesafioDev\\0a10\\0a10.csproj",
+      "projectUniqueName": "C:\\Users\\39051989830\\Desktop\\DesafioDev\\0a10\\0a10.csproj",
       "projectName": "0a10",
-      "projectPath": "C:\\Users\\39051989830\\Documents\\DesafioDev\\0a10\\0a10.csproj",
+      "projectPath": "C:\\Users\\39051989830\\Desktop\\DesafioDev\\0a10\\0a10.csproj",
       "packagesPath": "C:\\Users\\39051989830\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\39051989830\\Documents\\DesafioDev\\0a10\\obj\\",
+      "outputPath": "C:\\Users\\39051989830\\Desktop\\DesafioDev\\0a10\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

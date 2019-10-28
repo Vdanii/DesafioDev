@@ -1,0 +1,11 @@
+C:\Users\39051989830\Desktop\DesafioDev\LimiteSuperior\bin\Debug\netcoreapp2.2\LimiteSuperior.deps.json
+C:\Users\39051989830\Desktop\DesafioDev\LimiteSuperior\bin\Debug\netcoreapp2.2\LimiteSuperior.runtimeconfig.json
+C:\Users\39051989830\Desktop\DesafioDev\LimiteSuperior\bin\Debug\netcoreapp2.2\LimiteSuperior.runtimeconfig.dev.json
+C:\Users\39051989830\Desktop\DesafioDev\LimiteSuperior\bin\Debug\netcoreapp2.2\LimiteSuperior.dll
+C:\Users\39051989830\Desktop\DesafioDev\LimiteSuperior\bin\Debug\netcoreapp2.2\LimiteSuperior.pdb
+C:\Users\39051989830\Desktop\DesafioDev\LimiteSuperior\obj\Debug\netcoreapp2.2\LimiteSuperior.csprojAssemblyReference.cache
+C:\Users\39051989830\Desktop\DesafioDev\LimiteSuperior\obj\Debug\netcoreapp2.2\LimiteSuperior.csproj.CoreCompileInputs.cache
+C:\Users\39051989830\Desktop\DesafioDev\LimiteSuperior\obj\Debug\netcoreapp2.2\LimiteSuperior.AssemblyInfoInputs.cache
+C:\Users\39051989830\Desktop\DesafioDev\LimiteSuperior\obj\Debug\netcoreapp2.2\LimiteSuperior.AssemblyInfo.cs
+C:\Users\39051989830\Desktop\DesafioDev\LimiteSuperior\obj\Debug\netcoreapp2.2\LimiteSuperior.dll
+C:\Users\39051989830\Desktop\DesafioDev\LimiteSuperior\obj\Debug\netcoreapp2.2\LimiteSuperior.pdb
